@@ -1,6 +1,6 @@
 /*
    ESP8266 o ESP32 (ver las modificaciones)
-
+   Este script lee del server el valor "aleatorio" del topic "XJXT06"
 */
 
 #include <ESP8266WiFi.h> // Para ESP8266
