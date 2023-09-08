@@ -1,5 +1,6 @@
 /*
    ESP8266 o ESP32 (ver las modificaciones)
+   Este script sube al server un valor "aleatorio" en el topic "XJXT06" 
 
 */
 
